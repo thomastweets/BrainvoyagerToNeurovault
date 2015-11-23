@@ -1,0 +1,14 @@
+FileVersion:      6
+
+DataFormat:     Matrix
+
+0.913	0.000	0.000	0.000
+0.000	0.909	0.000	0.000
+0.000	0.000	0.913	0.000
+0.000	0.000	0.000	1.000
+
+TransformationType: 2
+CoordinateSystem:   0
+
+SourceFile:        "vmp1p1mm"
+TargetFile:        "vmp1mm"
